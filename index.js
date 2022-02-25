@@ -1,3 +1,17 @@
+// Destructive Array Methods:
+//these methods will for ever alter / mutate the array in your code once invoked.
+//.push()
+//.unshift()
+//.pop()
+//.shift()
+//.splice
+
+//Nondestructive Array Methods:
+//these methods will create a new array, separate, that won't effect
+//the OG array.
+//spread operator [...]
+//.slice()
+
 // Solution 1
 const cats = ["Milo", "Otis", "Garfield"];
 
